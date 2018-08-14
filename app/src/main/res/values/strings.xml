@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="typeYourName">Type your name</string>
+    <string name="typeYourEmail">Type your email</string>
+    <string name="typeYourPassord">Type your password</string>
+    <string name="invitePlayer">Invite player</string>
+    <string name="goodLuck">Good luck</string>
+    <string name="yourWin">Great, you win.</string>
+    <string name="youLose">Sorry, you lose.</string>
+</resources>

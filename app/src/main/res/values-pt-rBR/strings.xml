@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="typeYourName">Digite seu nome</string>
+    <string name="typeYourEmail">Digite seu email</string>
+    <string name="typeYourPassord">Digite sua senha</string>
+    <string name="invitePlayer">Convide um jogador</string>
+    <string name="goodLuck">Bom sorte</string>
+    <string name="yourWin">youWin</string>
+    <string name="youAreLoser">Desculpe, você perdeu.</string>
+</resources>
